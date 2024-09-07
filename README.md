@@ -15,18 +15,12 @@ FEATURES:
 4) Creates a new CSV file everyday for attendance and marks attendance with proper date and time.
 5) Displays live attendance updates for the day on the main screen in tabular format with Id, name, date and time.
 
-# SCREENSHOTS
-MAIN SCREEN:
-![Screenshot (9)](https://user-images.githubusercontent.com/37211676/58502148-97ec2a00-81a3-11e9-963e-674b9c3e05dc.png)
+# SCREENSHOTS![Screenshot 2024-08-30 201010](https://github.com/user-attachments/assets/a5ed5a7e-fddd-48ef-8424-caf4dafa8c63)
 
-TAKING ATTENDANCE:
-![Screenshot (10)](https://user-images.githubusercontent.com/37211676/58502149-97ec2a00-81a3-11e9-9658-8968da396c2e.png)
 
-SHOWING ATTENDANCE TAKEN:
-![Screenshot (11)](https://user-images.githubusercontent.com/37211676/58502151-9884c080-81a3-11e9-9a90-fec29940ee5a.png)
+![Screenshot 2024-08-30 202212](https://github.com/user-attachments/assets/d168d741-5c26-42bb-b426-49fa7a6082c0)
+![Screenshot 2024-08-30 202233](https://github.com/user-![Screenshot 2024-08-30 202304](https://github.com/user-attachments/assets/a9b924be-ab3e-4f59-9041-3f4d2321c1e8)
+attachments/assets/901082e4-14a7-47cb-83a1-49c50e8c34fe)
+![Screenshot 2024-08-30 202316](https://github.com/user-attachments/assets/eae98ab6-4e37-4881-9d04-77d5d256feb9)
+![Screenshot 2024-09-04 140557](https://github.com/user-attachments/assets/49464e80-da3b-490d-a5d1-dee49d988ac5)
 
-HELP OPTION IN MENUBAR:
-![Screenshot (12)](https://user-images.githubusercontent.com/37211676/58502152-991d5700-81a3-11e9-861a-9115526010c2.png)
-
-CHANGE PASSWORD OPTION:
-![Screenshot (13)](https://user-images.githubusercontent.com/37211676/58502146-97539380-81a3-11e9-8536-0c68160ecc55.png)
